@@ -1,7 +1,7 @@
 // キャッシュファイルの指定
 var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
-    '/poster-keisuke.github.io/',
+    '/megumu.github.io/workshop-pwa-2021-11-09/',
 ];
 
 // インストール処理
